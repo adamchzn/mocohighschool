@@ -1,0 +1,1058 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "7ycz-azby",
+      "name" : "Public High Schools Map",
+      "attribution" : "Montgomery County, MD",
+      "averageRating" : 0,
+      "category" : "Education",
+      "createdAt" : 1330548490,
+      "description" : "Address and Locations of all Public Schools in Montgomery County, MD.",
+      "displayType" : "map",
+      "downloadCount" : 483,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "iconUrl" : "fileId:rvhBeI1RffutDpzrFjhKY5Xpu1EE26Wbxjnip32wzd0",
+      "indexUpdatedAt" : 1570498763,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 1074947,
+      "previewImageId" : "10b353ec-e8de-4ba0-b586-8460d7726603",
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1347566411,
+      "publicationGroup" : 290865,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1347566075,
+      "rowsUpdatedBy" : "yr5d-z7h2",
+      "tableId" : 425578,
+      "totalTimesRated" : 0,
+      "viewCount" : 3468,
+      "viewLastModified" : 1472321679,
+      "viewType" : "tabular",
+      "approvals" : [ {
+        "reviewedAt" : 1330548490,
+        "reviewedAutomatically" : true,
+        "state" : "approved",
+        "submissionId" : 1044866,
+        "submissionObject" : "public_audience_request",
+        "submissionOutcome" : "change_audience",
+        "submittedAt" : 1330548490,
+        "workflowId" : 2274,
+        "submissionDetails" : {
+          "permissionType" : "READ"
+        },
+        "submissionOutcomeApplication" : {
+          "failureCount" : 0,
+          "status" : "success"
+        },
+        "submitter" : {
+          "id" : "yr5d-z7h2",
+          "displayName" : "John Gillick"
+        }
+      } ],
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 17783920,
+        "name" : "CATEGORY",
+        "dataTypeName" : "text",
+        "description" : "Type of School (\"HIGH SCHOOLS\", \"MIDDLE SCHOOLS\", or \"ELEMENTARY SCHOOLS\")",
+        "fieldName" : "category",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 2175449,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 25,
+          "null" : "0",
+          "top" : [ {
+            "item" : "HIGH SCHOOLS",
+            "count" : "25"
+          } ],
+          "cardinality" : "1"
+        },
+        "format" : { }
+      }, {
+        "id" : 17783921,
+        "name" : "SCHOOL NAME",
+        "dataTypeName" : "text",
+        "description" : "Name of the Public School",
+        "fieldName" : "school_name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 2175450,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 25,
+          "null" : "0",
+          "top" : [ {
+            "item" : "Walter Johnson HS",
+            "count" : "1"
+          }, {
+            "item" : "Poolesville HS",
+            "count" : "1"
+          }, {
+            "item" : "Rockville HS",
+            "count" : "1"
+          }, {
+            "item" : "Northwood HS",
+            "count" : "1"
+          }, {
+            "item" : "Montgomery Blair HS",
+            "count" : "1"
+          }, {
+            "item" : "Albert Einstein HS",
+            "count" : "1"
+          }, {
+            "item" : "Damascus HS",
+            "count" : "1"
+          }, {
+            "item" : "Richard Montgomery HS",
+            "count" : "1"
+          }, {
+            "item" : "Sherwood HS",
+            "count" : "1"
+          }, {
+            "item" : "Clarksburg HS",
+            "count" : "1"
+          }, {
+            "item" : "Walt Whitman HS",
+            "count" : "1"
+          }, {
+            "item" : "Seneca Valley HS",
+            "count" : "1"
+          }, {
+            "item" : "Thomas S Wootton HS",
+            "count" : "1"
+          }, {
+            "item" : "Springbrook HS",
+            "count" : "1"
+          }, {
+            "item" : "James Hubert Blake HS",
+            "count" : "1"
+          }, {
+            "item" : "Northwest HS",
+            "count" : "1"
+          }, {
+            "item" : "Paint Branch HS",
+            "count" : "1"
+          }, {
+            "item" : "John F Kennedy HS",
+            "count" : "1"
+          }, {
+            "item" : "Gaithersburg HS",
+            "count" : "1"
+          }, {
+            "item" : "Watkins Mill HS",
+            "count" : "1"
+          } ],
+          "cardinality" : "25"
+        },
+        "format" : { }
+      }, {
+        "id" : 17783922,
+        "name" : "ADDRESS",
+        "dataTypeName" : "text",
+        "description" : "Street Address of the Public School",
+        "fieldName" : "address",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 2175451,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 25,
+          "null" : "0",
+          "top" : [ {
+            "item" : "1901 Randolph Rd",
+            "count" : "1"
+          }, {
+            "item" : "919 University Blv W",
+            "count" : "1"
+          }, {
+            "item" : "22500 Wims Rd",
+            "count" : "1"
+          }, {
+            "item" : "5939 Muncaster Mill Rd",
+            "count" : "1"
+          }, {
+            "item" : "300 Olney Sandy Spring Rd",
+            "count" : "1"
+          }, {
+            "item" : "250 Richard Montgomery Dr",
+            "count" : "1"
+          }, {
+            "item" : "6400 Rock Spring Dr",
+            "count" : "1"
+          }, {
+            "item" : "201 Valley Brook Dr",
+            "count" : "1"
+          }, {
+            "item" : "11300 Gainsborough Rd",
+            "count" : "1"
+          }, {
+            "item" : "300 Norwood Rd",
+            "count" : "1"
+          }, {
+            "item" : "11135 Newport Mill Rd",
+            "count" : "1"
+          }, {
+            "item" : "15800 Quince Orchard Rd",
+            "count" : "1"
+          }, {
+            "item" : "25921 Ridge Rd",
+            "count" : "1"
+          }, {
+            "item" : "4301 East West Hwy",
+            "count" : "1"
+          }, {
+            "item" : "7100 Whittier Blv",
+            "count" : "1"
+          }, {
+            "item" : "14121 Old Columbia Pik",
+            "count" : "1"
+          }, {
+            "item" : "51 E University Blv",
+            "count" : "1"
+          }, {
+            "item" : "19401 Crystal Rock Dr",
+            "count" : "1"
+          }, {
+            "item" : "10301 Apple Ridge Rd",
+            "count" : "1"
+          }, {
+            "item" : "17501 Willard Rd",
+            "count" : "1"
+          } ],
+          "cardinality" : "25"
+        },
+        "format" : { }
+      }, {
+        "id" : 17783923,
+        "name" : "CITY",
+        "dataTypeName" : "text",
+        "description" : "City for the Public School",
+        "fieldName" : "city",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 2175452,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 25,
+          "null" : "0",
+          "top" : [ {
+            "item" : "Silver Spring",
+            "count" : "6"
+          }, {
+            "item" : "Rockville",
+            "count" : "4"
+          }, {
+            "item" : "Gaithersburg",
+            "count" : "3"
+          }, {
+            "item" : "Bethesda",
+            "count" : "3"
+          }, {
+            "item" : "Germantown",
+            "count" : "2"
+          }, {
+            "item" : "Poolesville",
+            "count" : "1"
+          }, {
+            "item" : "Kensington",
+            "count" : "1"
+          }, {
+            "item" : "Burtonsville",
+            "count" : "1"
+          }, {
+            "item" : "Potomac",
+            "count" : "1"
+          }, {
+            "item" : "Damascus",
+            "count" : "1"
+          }, {
+            "item" : "Clarksburg",
+            "count" : "1"
+          }, {
+            "item" : "Sandy Spring",
+            "count" : "1"
+          } ],
+          "cardinality" : "12"
+        },
+        "format" : { }
+      }, {
+        "id" : 17783924,
+        "name" : "ZIP CODE",
+        "dataTypeName" : "number",
+        "description" : "5 digit postal Zip Code for the Public School",
+        "fieldName" : "zip_code",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 2175453,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 25,
+          "average" : "20868.36",
+          "null" : "0",
+          "top" : [ {
+            "item" : "20814",
+            "count" : "2"
+          }, {
+            "item" : "20874",
+            "count" : "2"
+          }, {
+            "item" : "20901",
+            "count" : "2"
+          }, {
+            "item" : "20905",
+            "count" : "1"
+          }, {
+            "item" : "20852",
+            "count" : "1"
+          }, {
+            "item" : "20877",
+            "count" : "1"
+          }, {
+            "item" : "20904",
+            "count" : "1"
+          }, {
+            "item" : "20860",
+            "count" : "1"
+          }, {
+            "item" : "20878",
+            "count" : "1"
+          }, {
+            "item" : "20872",
+            "count" : "1"
+          }, {
+            "item" : "20837",
+            "count" : "1"
+          }, {
+            "item" : "20851",
+            "count" : "1"
+          }, {
+            "item" : "20817",
+            "count" : "1"
+          }, {
+            "item" : "20855",
+            "count" : "1"
+          }, {
+            "item" : "20871",
+            "count" : "1"
+          }, {
+            "item" : "20906",
+            "count" : "1"
+          }, {
+            "item" : "20879",
+            "count" : "1"
+          }, {
+            "item" : "20850",
+            "count" : "1"
+          }, {
+            "item" : "20866",
+            "count" : "1"
+          }, {
+            "item" : "20895",
+            "count" : "1"
+          } ],
+          "sum" : "521709",
+          "cardinality" : "22"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 17783925,
+        "name" : "PHONE",
+        "dataTypeName" : "text",
+        "description" : "Primary telephone number for the Public School",
+        "fieldName" : "phone",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 2175454,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 25,
+          "null" : "0",
+          "top" : [ {
+            "item" : "301-279-8550",
+            "count" : "1"
+          }, {
+            "item" : "240-497-6300",
+            "count" : "1"
+          }, {
+            "item" : "301-649-8088",
+            "count" : "1"
+          }, {
+            "item" : "301-840-3959",
+            "count" : "1"
+          }, {
+            "item" : "301-444-3000",
+            "count" : "1"
+          }, {
+            "item" : "301-353-8000",
+            "count" : "1"
+          }, {
+            "item" : "301-924-3200",
+            "count" : "1"
+          }, {
+            "item" : "301-320-6600",
+            "count" : "1"
+          }, {
+            "item" : "301-803-7100",
+            "count" : "1"
+          }, {
+            "item" : "301-972-7900",
+            "count" : "1"
+          }, {
+            "item" : "301-253-7030",
+            "count" : "1"
+          }, {
+            "item" : "301-989-5600",
+            "count" : "1"
+          }, {
+            "item" : "301-649-2800",
+            "count" : "1"
+          }, {
+            "item" : "301-517-8105",
+            "count" : "1"
+          }, {
+            "item" : "301-989-5700",
+            "count" : "1"
+          }, {
+            "item" : "301-879-1300",
+            "count" : "1"
+          }, {
+            "item" : "301-840-4600",
+            "count" : "1"
+          }, {
+            "item" : "301-469-1200",
+            "count" : "1"
+          }, {
+            "item" : "301-610-8000",
+            "count" : "1"
+          }, {
+            "item" : "301-929-2200",
+            "count" : "1"
+          } ],
+          "cardinality" : "25"
+        },
+        "format" : { }
+      }, {
+        "id" : 17783926,
+        "name" : "URL",
+        "dataTypeName" : "text",
+        "description" : "Internet address (URL) for the Public School's website",
+        "fieldName" : "url",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 2175455,
+        "width" : 136,
+        "cachedContents" : {
+          "non_null" : 25,
+          "null" : "0",
+          "top" : [ {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/rmhs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/springbrookhs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/kennedyhs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/poolesvillehs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/churchillhs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/whitmanhs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/wjhs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/northwesths",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/sherwoodhs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/einsteinhs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/qohs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/bcchs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/woottonhs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/paintbranchhs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/senecavalleyhs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.mbhs.edu",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/gaithsbghs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/clarksburghs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/rockvillehs",
+            "count" : "1"
+          }, {
+            "item" : "http://www.montgomeryschoolsmd.org/schools/wheatonhs",
+            "count" : "1"
+          } ],
+          "cardinality" : "25"
+        },
+        "format" : { }
+      }, {
+        "id" : 17783927,
+        "name" : "LONGITUDE",
+        "dataTypeName" : "number",
+        "description" : "Longitude location for the Public School",
+        "fieldName" : "longitude",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 2175456,
+        "width" : 208,
+        "cachedContents" : {
+          "non_null" : 25,
+          "average" : "-77.13544764962",
+          "null" : "0",
+          "top" : [ {
+            "item" : "-77.1182723989",
+            "count" : "1"
+          }, {
+            "item" : "-77.1731281364",
+            "count" : "1"
+          }, {
+            "item" : "-77.0666690813",
+            "count" : "1"
+          }, {
+            "item" : "-77.039027838",
+            "count" : "1"
+          }, {
+            "item" : "-77.0124342871",
+            "count" : "1"
+          }, {
+            "item" : "-77.0056814998",
+            "count" : "1"
+          }, {
+            "item" : "-77.1276727865",
+            "count" : "1"
+          }, {
+            "item" : "-77.0224839838",
+            "count" : "1"
+          }, {
+            "item" : "-77.2655866221",
+            "count" : "1"
+          }, {
+            "item" : "-77.1831974358",
+            "count" : "1"
+          }, {
+            "item" : "-77.1954776183",
+            "count" : "1"
+          }, {
+            "item" : "-77.0889699717",
+            "count" : "1"
+          }, {
+            "item" : "-77.0175061321",
+            "count" : "1"
+          }, {
+            "item" : "-77.1301017226",
+            "count" : "1"
+          }, {
+            "item" : "-77.2643319443",
+            "count" : "1"
+          }, {
+            "item" : "-77.0670360163",
+            "count" : "1"
+          }, {
+            "item" : "-77.254239085",
+            "count" : "1"
+          }, {
+            "item" : "-77.018771801",
+            "count" : "1"
+          }, {
+            "item" : "-77.215836205",
+            "count" : "1"
+          }, {
+            "item" : "-77.2100198748",
+            "count" : "1"
+          } ],
+          "sum" : "-1928.3861912405",
+          "cardinality" : "25"
+        },
+        "format" : { }
+      }, {
+        "id" : 17783928,
+        "name" : "LATITUDE",
+        "dataTypeName" : "number",
+        "description" : "Latitude location for the Public School",
+        "fieldName" : "latitude",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 2175457,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 25,
+          "average" : "39.098041524228",
+          "null" : "0",
+          "top" : [ {
+            "item" : "39.0356942671",
+            "count" : "1"
+          }, {
+            "item" : "39.0396158925",
+            "count" : "1"
+          }, {
+            "item" : "39.0765821359",
+            "count" : "1"
+          }, {
+            "item" : "39.0443047898",
+            "count" : "1"
+          }, {
+            "item" : "39.0253918855",
+            "count" : "1"
+          }, {
+            "item" : "39.148342372",
+            "count" : "1"
+          }, {
+            "item" : "39.183966701",
+            "count" : "1"
+          }, {
+            "item" : "39.1133304559",
+            "count" : "1"
+          }, {
+            "item" : "39.2824956463",
+            "count" : "1"
+          }, {
+            "item" : "39.0886791828",
+            "count" : "1"
+          }, {
+            "item" : "39.0657502712",
+            "count" : "1"
+          }, {
+            "item" : "39.1431033716",
+            "count" : "1"
+          }, {
+            "item" : "39.0863478113",
+            "count" : "1"
+          }, {
+            "item" : "38.9868264765",
+            "count" : "1"
+          }, {
+            "item" : "39.225501825",
+            "count" : "1"
+          }, {
+            "item" : "39.0182729296",
+            "count" : "1"
+          }, {
+            "item" : "39.1348394458",
+            "count" : "1"
+          }, {
+            "item" : "39.0578019375",
+            "count" : "1"
+          }, {
+            "item" : "39.1515925975",
+            "count" : "1"
+          }, {
+            "item" : "39.0613378725",
+            "count" : "1"
+          } ],
+          "sum" : "977.4510381057",
+          "cardinality" : "25"
+        },
+        "format" : { }
+      }, {
+        "id" : 17783929,
+        "name" : "LOCATION",
+        "dataTypeName" : "location",
+        "description" : "Location field generated to indicate the location of the Public School on a map",
+        "fieldName" : "location",
+        "position" : 10,
+        "renderTypeName" : "location",
+        "tableColumnId" : 2175458,
+        "width" : 196,
+        "format" : { },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      }, {
+        "id" : 432205197,
+        "name" : "Council Districts",
+        "dataTypeName" : "number",
+        "fieldName" : ":@computed_region_vu5j_pcmz",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 88871568,
+        "computationStrategy" : {
+          "source_columns" : [ "location" ],
+          "type" : "georegion_match_on_point",
+          "parameters" : {
+            "region" : "_vu5j-pcmz",
+            "primary_key" : "_feature_id"
+          }
+        },
+        "format" : { }
+      }, {
+        "id" : 432205224,
+        "name" : "Councils",
+        "dataTypeName" : "number",
+        "fieldName" : ":@computed_region_tx5f_5em3",
+        "position" : 16,
+        "renderTypeName" : "number",
+        "tableColumnId" : 88871569,
+        "computationStrategy" : {
+          "source_columns" : [ "location" ],
+          "type" : "georegion_match_on_point",
+          "parameters" : {
+            "region" : "_tx5f-5em3",
+            "primary_key" : "_feature_id"
+          }
+        },
+        "format" : { }
+      }, {
+        "id" : 432205251,
+        "name" : "Communities",
+        "dataTypeName" : "number",
+        "fieldName" : ":@computed_region_kbsp_ykn9",
+        "position" : 17,
+        "renderTypeName" : "number",
+        "tableColumnId" : 88871570,
+        "computationStrategy" : {
+          "source_columns" : [ "location" ],
+          "type" : "georegion_match_on_point",
+          "parameters" : {
+            "region" : "_kbsp-ykn9",
+            "primary_key" : "_feature_id"
+          }
+        },
+        "format" : { }
+      }, {
+        "id" : 432205278,
+        "name" : "Zip Codes",
+        "dataTypeName" : "number",
+        "fieldName" : ":@computed_region_d7bw_bq6x",
+        "position" : 18,
+        "renderTypeName" : "number",
+        "tableColumnId" : 88871571,
+        "computationStrategy" : {
+          "source_columns" : [ "location" ],
+          "type" : "georegion_match_on_point",
+          "parameters" : {
+            "region" : "_d7bw-bq6x",
+            "primary_key" : "_feature_id"
+          }
+        },
+        "format" : { }
+      }, {
+        "id" : 432205305,
+        "name" : "Municipalities",
+        "dataTypeName" : "number",
+        "fieldName" : ":@computed_region_rbt8_3x7n",
+        "position" : 19,
+        "renderTypeName" : "number",
+        "tableColumnId" : 88871572,
+        "computationStrategy" : {
+          "source_columns" : [ "location" ],
+          "type" : "georegion_match_on_point",
+          "parameters" : {
+            "region" : "_rbt8-3x7n",
+            "primary_key" : "_feature_id"
+          }
+        },
+        "format" : { }
+      } ],
+      "displayFormat" : {
+        "color" : "#0000ff",
+        "distinctLegend" : true,
+        "plot" : {
+          "locationId" : 2175458,
+          "titleId" : 2175450,
+          "descriptionColumns" : [ {
+            "tableColumnId" : 2175458
+          }, {
+            "tableColumnId" : 2175454
+          }, {
+            "tableColumnId" : 2175455
+          } ]
+        },
+        "bkgdLayers" : [ {
+          "alias" : "Roadmap",
+          "layerName" : "Google Roadmap",
+          "opacity" : 1
+        }, {
+          "alias" : "Satellite",
+          "layerName" : "Google Satellite",
+          "opacity" : 1
+        }, {
+          "alias" : "Terrain",
+          "layerName" : "Google Terrain",
+          "opacity" : 1
+        } ],
+        "flyoutsNoLabel" : false,
+        "exclusiveLayers" : true,
+        "viewDefinitions" : [ {
+          "uid" : "7ycz-azby",
+          "color" : "#0000ff",
+          "plot" : {
+            "locationId" : 2175458,
+            "titleId" : 2175450,
+            "descriptionColumns" : [ {
+              "tableColumnId" : 2175458
+            }, {
+              "tableColumnId" : 2175454
+            }, {
+              "tableColumnId" : 2175455
+            } ]
+          },
+          "flyoutsNoLabel" : false,
+          "type" : "google",
+          "plotStyle" : "point"
+        } ],
+        "type" : "google",
+        "plotStyle" : "point"
+      },
+      "grants" : [ {
+        "inherited" : true,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "thumbnail" : {
+          "page" : {
+            "filename" : "page.png-452.241.26.527.png",
+            "selection" : {
+              "width" : 452,
+              "y1" : 527,
+              "y2" : 768,
+              "x1" : 26,
+              "x2" : 478,
+              "height" : 241
+            },
+            "created" : true
+          }
+        },
+        "rdfSubject" : "0",
+        "rdfClass" : "",
+        "custom_fields" : {
+          "Dataset Information" : {
+            "Departments" : "Technology Services, Department of",
+            "Update Frequency" : "As Needed"
+          }
+        },
+        "query" : {
+          "7ycz-azby" : {
+            "filterCondition" : {
+              "metadata" : {
+                "unifiedVersion" : 2
+              },
+              "children" : [ {
+                "metadata" : {
+                  "tableColumnId" : {
+                    "290865" : 2175449
+                  },
+                  "operator" : "EQUALS"
+                },
+                "children" : [ {
+                  "metadata" : {
+                    "freeform" : true
+                  },
+                  "children" : [ {
+                    "columnId" : 17783920,
+                    "type" : "column"
+                  }, {
+                    "type" : "literal",
+                    "value" : "HIGH SCHOOLS"
+                  } ],
+                  "type" : "operator",
+                  "value" : "EQUALS"
+                } ],
+                "type" : "operator",
+                "value" : "OR"
+              } ],
+              "type" : "operator",
+              "value" : "AND"
+            }
+          }
+        },
+        "rowIdentifier" : "0",
+        "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+        "renderTypeConfig" : {
+          "visible" : {
+            "map" : true,
+            "table" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "yr5d-z7h2",
+        "displayName" : "John Gillick",
+        "screenName" : "John Gillick",
+        "type" : "interactive",
+        "userSegment" : "site_member"
+      },
+      "query" : {
+        "filterCondition" : {
+          "type" : "operator",
+          "value" : "AND",
+          "children" : [ {
+            "type" : "operator",
+            "value" : "OR",
+            "children" : [ {
+              "type" : "operator",
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 17783920,
+                "type" : "column"
+              }, {
+                "type" : "literal",
+                "value" : "HIGH SCHOOLS"
+              } ],
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "metadata" : {
+              "tableColumnId" : {
+                "290865" : 2175449
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        },
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 17783924,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "yr5d-z7h2",
+        "displayName" : "John Gillick",
+        "screenName" : "John Gillick",
+        "type" : "interactive",
+        "userSegment" : "site_member"
+      },
+      "tags" : [ "schools" ],
+      "flags" : [ "unsaved" ]
+    }
+  },
+  "data" : [ [ "row-unct~yhsv_nhmr", "00000000-0000-0000-0CDF-D122091E9C4C", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Northwood HS", "919 University Blv W", "Silver Spring", "20901", "301-649-8088", "http://www.montgomeryschoolsmd.org/schools/northwoodhs", "-77.0224839838", "39.0356942671", [ "{\"address\": \"919 University Blv W\", \"city\": \"Silver Spring\", \"state\": \"MD\", \"zip\": \"20901\"}", "39.0356942671", "-77.0224839838", null, false ], "5", "5", "17", "21", "1" ]
+, [ "row-zvca_tbks-qzky", "00000000-0000-0000-5F20-AEC8358CE5E8", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Walter Johnson HS", "6400 Rock Spring Dr", "Bethesda", "20814", "301-803-7100", "http://www.montgomeryschoolsmd.org/schools/wjhs", "-77.1301017226", "39.0253918855", [ "{\"address\": \"6400 Rock Spring Dr\", \"city\": \"Bethesda\", \"state\": \"MD\", \"zip\": \"20814\"}", "39.0253918855", "-77.1301017226", null, false ], "1", "1", "19", "103", "1" ]
+, [ "row-x4dg~r7b8_gu8x", "00000000-0000-0000-D3DC-D8C18B6AE8AE", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "John F Kennedy HS", "1901 Randolph Rd", "Silver Spring", "20902", "301-929-2100", "http://www.montgomeryschoolsmd.org/schools/kennedyhs", "-77.039027838", "39.0657502712", [ "{\"address\": \"1901 Randolph Rd\", \"city\": \"Silver Spring\", \"state\": \"MD\", \"zip\": \"20902\"}", "39.0657502712", "-77.039027838", null, false ], "4", "4", "23", "6", "1" ]
+, [ "row-pe76-4jii~szhs", "00000000-0000-0000-4115-02D00565ADC8", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Damascus HS", "25921 Ridge Rd", "Damascus", "20872", "301-253-7030", "http://www.montgomeryschoolsmd.org/schools/damascushs", "-77.2100198748", "39.2824956463", [ "{\"address\": \"25921 Ridge Rd\", \"city\": \"Damascus\", \"state\": \"MD\", \"zip\": \"20872\"}", "39.2824956463", "-77.2100198748", null, false ], "2", "2", "51", "42", "1" ]
+, [ "row-cpte-hpmz-rnrx", "00000000-0000-0000-6217-2440CFDE9D42", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Clarksburg HS", "22500 Wims Rd", "Clarksburg", "20871", "301-444-3000", "http://www.montgomeryschoolsmd.org/schools/clarksburghs", "-77.2655866221", "39.225501825", [ "{\"address\": \"22500 Wims Rd\", \"city\": \"Clarksburg\", \"state\": \"MD\", \"zip\": \"20871\"}", "39.225501825", "-77.2655866221", null, false ], "2", "2", "50", "44", "1" ]
+, [ "row-acei-p7d5_4bqw", "00000000-0000-0000-973A-93B513669A0F", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Seneca Valley HS", "19401 Crystal Rock Dr", "Germantown", "20874", "301-353-8000", "http://www.montgomeryschoolsmd.org/schools/senecavalleyhs", "-77.2643319443", "39.1750937217", [ "{\"address\": \"19401 Crystal Rock Dr\", \"city\": \"Germantown\", \"state\": \"MD\", \"zip\": \"20874\"}", "39.1750937217", "-77.2643319443", null, false ], "2", "2", "39", "39", "1" ]
+, [ "row-e94f_47vh-cjwf", "00000000-0000-0000-DF8F-74C01874EAA1", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Gaithersburg HS", "314 S Frederick Ave", "Gaithersburg", "20877", "301-840-4700", "http://www.montgomeryschoolsmd.org/schools/gaithsbghs", "-77.1954776183", "39.1348394458", [ "{\"address\": \"314 S Frederick Ave\", \"city\": \"Gaithersburg\", \"state\": \"MD\", \"zip\": \"20877\"}", "39.1348394458", "-77.1954776183", null, false ], "3", "3", "36", "35", "21" ]
+, [ "row-i687_kcas-mrb3", "00000000-0000-0000-3ACB-0B8AE3BBFA41", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Springbrook HS", "201 Valley Brook Dr", "Silver Spring", "20904", "301-989-5700", "http://www.montgomeryschoolsmd.org/schools/springbrookhs", "-77.0056814998", "39.0578019375", [ "{\"address\": \"201 Valley Brook Dr\", \"city\": \"Silver Spring\", \"state\": \"MD\", \"zip\": \"20904\"}", "39.0578019375", "-77.0056814998", null, false ], "4", "4", "26", "12", "1" ]
+, [ "row-nqtv_duj2~atks", "00000000-0000-0000-58DE-4CC09CD7241C", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Northwest HS", "13501 Richter Farm Rd", "Germantown", "20874", "301-601-4660", "http://www.montgomeryschoolsmd.org/schools/northwesths", "-77.2793294162", "39.1515925975", [ "{\"address\": \"13501 Richter Farm Rd\", \"city\": \"Germantown\", \"state\": \"MD\", \"zip\": \"20874\"}", "39.1515925975", "-77.2793294162", null, false ], "2", "2", "39", "39", "1" ]
+, [ "row-qtkd_3k3z_i7jb", "00000000-0000-0000-68D6-FD8A5E352A77", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Watkins Mill HS", "10301 Apple Ridge Rd", "Gaithersburg", "20879", "301-840-3959", "http://www.montgomeryschoolsmd.org/schools/watkinsmillhs", "-77.215836205", "39.183966701", [ "{\"address\": \"10301 Apple Ridge Rd\", \"city\": \"Gaithersburg\", \"state\": \"MD\", \"zip\": \"20879\"}", "39.183966701", "-77.215836205", null, false ], "2", "2", "38", "28", "1" ]
+, [ "row-2mna.jg3j~s823", "00000000-0000-0000-B899-0AE918DEF05A", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Poolesville HS", "17501 Willard Rd", "Poolesville", "20837", "301-972-7900", "http://www.montgomeryschoolsmd.org/schools/poolesvillehs", "-77.4187801451", "39.1431033716", [ "{\"address\": \"17501 Willard Rd\", \"city\": \"Poolesville\", \"state\": \"MD\", \"zip\": \"20837\"}", "39.1431033716", "-77.4187801451", null, false ], "1", "1", "34", "97", "16" ]
+, [ "row-hbgk_snnc.z9cs", "00000000-0000-0000-76AD-F2AFB30CCAA1", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Col Zadok Magruder HS", "5939 Muncaster Mill Rd", "Rockville", "20855", "301-840-4600", "http://www.montgomeryschoolsmd.org/schools/magruderhs", "-77.1188059149", "39.1313109818", [ "{\"address\": \"5939 Muncaster Mill Rd\", \"city\": \"Rockville\", \"state\": \"MD\", \"zip\": \"20855\"}", "39.1313109818", "-77.1188059149", null, false ], "4", "4", "55", "51", "1" ]
+, [ "row-iwgn_4x34.gjq2", "00000000-0000-0000-4E62-3C544A6C6CAF", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Paint Branch HS", "14121 Old Columbia Pik", "Burtonsville", "20866", "301-989-5600", "http://www.montgomeryschoolsmd.org/schools/paintbranchhs", "-76.9471015401", "39.0886791828", [ "{\"address\": \"14121 Old Columbia Pik\", \"city\": \"Burtonsville\", \"state\": \"MD\", \"zip\": \"20866\"}", "39.0886791828", "-76.9471015401", null, false ], "5", "5", "53", "47", "1" ]
+, [ "row-yjc7_578p.7mbg", "00000000-0000-0000-55C8-4B628A419C5D", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Winston Churchill HS", "11300 Gainsborough Rd", "Potomac", "20854", "301-469-1200", "http://www.montgomeryschoolsmd.org/schools/churchillhs", "-77.1731281364", "39.0443047898", [ "{\"address\": \"11300 Gainsborough Rd\", \"city\": \"Potomac\", \"state\": \"MD\", \"zip\": \"20854\"}", "39.0443047898", "-77.1731281364", null, false ], "1", "1", "20", "53", "1" ]
+, [ "row-xcjp-xjfp~k2q8", "00000000-0000-0000-CE1D-6BD7BD5902CA", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Richard Montgomery HS", "250 Richard Montgomery Dr", "Rockville", "20852", "301-610-8000", "http://www.montgomeryschoolsmd.org/schools/rmhs", "-77.1457297834", "39.0772920776", [ "{\"address\": \"250 Richard Montgomery Dr\", \"city\": \"Rockville\", \"state\": \"MD\", \"zip\": \"20852\"}", "39.0772920776", "-77.1457297834", null, false ], "3", "3", "25", "60", "12" ]
+, [ "row-buxm-2fg3-gc5d", "00000000-0000-0000-1954-907AF5789515", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Bethesda-Chevy Chase HS", "4301 East West Hwy", "Bethesda", "20814", "240-497-6300", "http://www.montgomeryschoolsmd.org/schools/bcchs", "-77.0889699717", "38.9868264765", [ "{\"address\": \"4301 East West Hwy\", \"city\": \"Bethesda\", \"state\": \"MD\", \"zip\": \"20814\"}", "38.9868264765", "-77.0889699717", null, false ], "1", "1", "12", "111", "1" ]
+, [ "row-7qmk-cf22-z33m", "00000000-0000-0000-9F93-891E1B475C72", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Thomas S Wootton HS", "2100 Wootton Pkw", "Rockville", "20850", "301-279-8550", "http://www.montgomeryschoolsmd.org/schools/woottonhs", "-77.1831974358", "39.0765821359", [ "{\"address\": \"2100 Wootton Pkw\", \"city\": \"Rockville\", \"state\": \"MD\", \"zip\": \"20850\"}", "39.0765821359", "-77.1831974358", null, false ], "3", "3", "25", "71", "12" ]
+, [ "row-8th3.h7ub.kfbx", "00000000-0000-0000-3A79-4B6C4E89CB18", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Albert Einstein HS", "11135 Newport Mill Rd", "Kensington", "20895", "301-929-2200", "http://www.montgomeryschoolsmd.org/schools/einsteinhs", "-77.0670360163", "39.0396158925", [ "{\"address\": \"11135 Newport Mill Rd\", \"city\": \"Kensington\", \"state\": \"MD\", \"zip\": \"20895\"}", "39.0396158925", "-77.0670360163", null, false ], "4", "4", "15", "25", "1" ]
+, [ "row-f6fh~psv6_83u6", "00000000-0000-0000-A296-2D663A467213", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Montgomery Blair HS", "51 E University Blv", "Silver Spring", "20901", "301-649-2800", "http://www.mbhs.edu", "-77.0124342871", "39.0182729296", [ "{\"address\": \"51 E University Blv\", \"city\": \"Silver Spring\", \"state\": \"MD\", \"zip\": \"20901\"}", "39.0182729296", "-77.0124342871", null, false ], "5", "5", "13", "21", "1" ]
+, [ "row-f2ti-yy64.8eu5", "00000000-0000-0000-1B8B-553418D8BDA9", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Rockville HS", "2100 Baltimore Rd", "Rockville", "20851", "301-517-8105", "http://www.montgomeryschoolsmd.org/schools/rockvillehs", "-77.1182723989", "39.0863478113", [ "{\"address\": \"2100 Baltimore Rd\", \"city\": \"Rockville\", \"state\": \"MD\", \"zip\": \"20851\"}", "39.0863478113", "-77.1182723989", null, false ], "3", "3", "25", "68", "12" ]
+, [ "row-zye7.spzc_d3yz", "00000000-0000-0000-FC39-A0757630A861", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "James Hubert Blake HS", "300 Norwood Rd", "Silver Spring", "20905", "301-879-1300", "http://www.montgomeryschoolsmd.org/schools/blakehs", "-77.0175061321", "39.1133304559", [ "{\"address\": \"300 Norwood Rd\", \"city\": \"Silver Spring\", \"state\": \"MD\", \"zip\": \"20905\"}", "39.1133304559", "-77.0175061321", null, false ], "4", "4", "26", "8", "1" ]
+, [ "row-rzar_v7u2~rmq2", "00000000-0000-0000-0377-C47EF11B87E1", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Sherwood HS", "300 Olney Sandy Spring Rd", "Sandy Spring", "20860", "301-924-3200", "http://www.montgomeryschoolsmd.org/schools/sherwoodhs", "-77.018771801", "39.148342372", [ "{\"address\": \"300 Olney Sandy Spring Rd\", \"city\": \"Sandy Spring\", \"state\": \"MD\", \"zip\": \"20860\"}", "39.148342372", "-77.018771801", null, false ], "4", "4", "35", "49", "1" ]
+, [ "row-byir.yxeu_57q6", "00000000-0000-0000-11E8-FE916A443192", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Wheaton HS", "12601 Dalewood Dr", "Silver Spring", "20906", "301-929-2050", "http://www.montgomeryschoolsmd.org/schools/wheatonhs", "-77.0666690813", "39.0613378725", [ "{\"address\": \"12601 Dalewood Dr\", \"city\": \"Silver Spring\", \"state\": \"MD\", \"zip\": \"20906\"}", "39.0613378725", "-77.0666690813", null, false ], "4", "4", "23", "6", "1" ]
+, [ "row-uyni~bbvr_gdm6", "00000000-0000-0000-8D3E-FB5D0C47DE5D", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Walt Whitman HS", "7100 Whittier Blv", "Bethesda", "20817", "301-320-6600", "http://www.montgomeryschoolsmd.org/schools/whitmanhs", "-77.1276727865", "38.9816307564", [ "{\"address\": \"7100 Whittier Blv\", \"city\": \"Bethesda\", \"state\": \"MD\", \"zip\": \"20817\"}", "38.9816307564", "-77.1276727865", null, false ], "1", "1", "12", "103", "1" ]
+, [ "row-hq3s.6dv9-q3mx", "00000000-0000-0000-8383-15A606EE7BE4", 0, 1570498732, null, 1570498735, null, "{ }", "HIGH SCHOOLS", "Quince Orchard HS", "15800 Quince Orchard Rd", "Gaithersburg", "20878", "301-840-4686", "http://www.montgomeryschoolsmd.org/schools/qohs", "-77.254239085", "39.1159327009", [ "{\"address\": \"15800 Quince Orchard Rd\", \"city\": \"Gaithersburg\", \"state\": \"MD\", \"zip\": \"20878\"}", "39.1159327009", "-77.254239085", null, false ], "2", "2", "24", "33", "1" ]
+ ]
+}
