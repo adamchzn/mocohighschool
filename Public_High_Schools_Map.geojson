@@ -1,0 +1,430 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0224839838,39.0356942671 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Northwood HS",
+    "ADDRESS":"919 University Blv W",
+    "CITY":"Silver Spring",
+    "ZIP CODE":20901,
+    "PHONE":"301-649-8088",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/northwoodhs",
+    "LOCATION":"919 University Blv W\nSilver Spring, MD 20901\n(39.0356942671, -77.0224839838)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1301017226,39.0253918855 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Walter Johnson HS",
+    "ADDRESS":"6400 Rock Spring Dr",
+    "CITY":"Bethesda",
+    "ZIP CODE":20814,
+    "PHONE":"301-803-7100",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/wjhs",
+    "LOCATION":"6400 Rock Spring Dr\nBethesda, MD 20814\n(39.0253918855, -77.1301017226)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.039027838,39.0657502712 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"John F Kennedy HS",
+    "ADDRESS":"1901 Randolph Rd",
+    "CITY":"Silver Spring",
+    "ZIP CODE":20902,
+    "PHONE":"301-929-2100",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/kennedyhs",
+    "LOCATION":"1901 Randolph Rd\nSilver Spring, MD 20902\n(39.0657502712, -77.039027838)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2100198748,39.2824956463 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Damascus HS",
+    "ADDRESS":"25921 Ridge Rd",
+    "CITY":"Damascus",
+    "ZIP CODE":20872,
+    "PHONE":"301-253-7030",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/damascushs",
+    "LOCATION":"25921 Ridge Rd\nDamascus, MD 20872\n(39.2824956463, -77.2100198748)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2655866221,39.225501825 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Clarksburg HS",
+    "ADDRESS":"22500 Wims Rd",
+    "CITY":"Clarksburg",
+    "ZIP CODE":20871,
+    "PHONE":"301-444-3000",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/clarksburghs",
+    "LOCATION":"22500 Wims Rd\nClarksburg, MD 20871\n(39.225501825, -77.2655866221)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2643319443,39.1750937217 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Seneca Valley HS",
+    "ADDRESS":"19401 Crystal Rock Dr",
+    "CITY":"Germantown",
+    "ZIP CODE":20874,
+    "PHONE":"301-353-8000",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/senecavalleyhs",
+    "LOCATION":"19401 Crystal Rock Dr\nGermantown, MD 20874\n(39.1750937217, -77.2643319443)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1954776183,39.1348394458 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Gaithersburg HS",
+    "ADDRESS":"314 S Frederick Ave",
+    "CITY":"Gaithersburg",
+    "ZIP CODE":20877,
+    "PHONE":"301-840-4700",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/gaithsbghs",
+    "LOCATION":"314 S Frederick Ave\nGaithersburg, MD 20877\n(39.1348394458, -77.1954776183)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0056814998,39.0578019375 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Springbrook HS",
+    "ADDRESS":"201 Valley Brook Dr",
+    "CITY":"Silver Spring",
+    "ZIP CODE":20904,
+    "PHONE":"301-989-5700",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/springbrookhs",
+    "LOCATION":"201 Valley Brook Dr\nSilver Spring, MD 20904\n(39.0578019375, -77.0056814998)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2793294162,39.1515925975 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Northwest HS",
+    "ADDRESS":"13501 Richter Farm Rd",
+    "CITY":"Germantown",
+    "ZIP CODE":20874,
+    "PHONE":"301-601-4660",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/northwesths",
+    "LOCATION":"13501 Richter Farm Rd\nGermantown, MD 20874\n(39.1515925975, -77.2793294162)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.215836205,39.183966701 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Watkins Mill HS",
+    "ADDRESS":"10301 Apple Ridge Rd",
+    "CITY":"Gaithersburg",
+    "ZIP CODE":20879,
+    "PHONE":"301-840-3959",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/watkinsmillhs",
+    "LOCATION":"10301 Apple Ridge Rd\nGaithersburg, MD 20879\n(39.183966701, -77.215836205)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4187801451,39.1431033716 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Poolesville HS",
+    "ADDRESS":"17501 Willard Rd",
+    "CITY":"Poolesville",
+    "ZIP CODE":20837,
+    "PHONE":"301-972-7900",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/poolesvillehs",
+    "LOCATION":"17501 Willard Rd\nPoolesville, MD 20837\n(39.1431033716, -77.4187801451)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1188059149,39.1313109818 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Col Zadok Magruder HS",
+    "ADDRESS":"5939 Muncaster Mill Rd",
+    "CITY":"Rockville",
+    "ZIP CODE":20855,
+    "PHONE":"301-840-4600",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/magruderhs",
+    "LOCATION":"5939 Muncaster Mill Rd\nRockville, MD 20855\n(39.1313109818, -77.1188059149)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9471015401,39.0886791828 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Paint Branch HS",
+    "ADDRESS":"14121 Old Columbia Pik",
+    "CITY":"Burtonsville",
+    "ZIP CODE":20866,
+    "PHONE":"301-989-5600",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/paintbranchhs",
+    "LOCATION":"14121 Old Columbia Pik\nBurtonsville, MD 20866\n(39.0886791828, -76.9471015401)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1731281364,39.0443047898 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Winston Churchill HS",
+    "ADDRESS":"11300 Gainsborough Rd",
+    "CITY":"Potomac",
+    "ZIP CODE":20854,
+    "PHONE":"301-469-1200",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/churchillhs",
+    "LOCATION":"11300 Gainsborough Rd\nPotomac, MD 20854\n(39.0443047898, -77.1731281364)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1457297834,39.0772920776 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Richard Montgomery HS",
+    "ADDRESS":"250 Richard Montgomery Dr",
+    "CITY":"Rockville",
+    "ZIP CODE":20852,
+    "PHONE":"301-610-8000",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/rmhs",
+    "LOCATION":"250 Richard Montgomery Dr\nRockville, MD 20852\n(39.0772920776, -77.1457297834)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0889699717,38.9868264765 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Bethesda-Chevy Chase HS",
+    "ADDRESS":"4301 East West Hwy",
+    "CITY":"Bethesda",
+    "ZIP CODE":20814,
+    "PHONE":"240-497-6300",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/bcchs",
+    "LOCATION":"4301 East West Hwy\nBethesda, MD 20814\n(38.9868264765, -77.0889699717)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1831974358,39.0765821359 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Thomas S Wootton HS",
+    "ADDRESS":"2100 Wootton Pkw",
+    "CITY":"Rockville",
+    "ZIP CODE":20850,
+    "PHONE":"301-279-8550",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/woottonhs",
+    "LOCATION":"2100 Wootton Pkw\nRockville, MD 20850\n(39.0765821359, -77.1831974358)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0670360163,39.0396158925 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Albert Einstein HS",
+    "ADDRESS":"11135 Newport Mill Rd",
+    "CITY":"Kensington",
+    "ZIP CODE":20895,
+    "PHONE":"301-929-2200",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/einsteinhs",
+    "LOCATION":"11135 Newport Mill Rd\nKensington, MD 20895\n(39.0396158925, -77.0670360163)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0124342871,39.0182729296 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Montgomery Blair HS",
+    "ADDRESS":"51 E University Blv",
+    "CITY":"Silver Spring",
+    "ZIP CODE":20901,
+    "PHONE":"301-649-2800",
+    "URL":"http://www.mbhs.edu",
+    "LOCATION":"51 E University Blv\nSilver Spring, MD 20901\n(39.0182729296, -77.0124342871)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1182723989,39.0863478113 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Rockville HS",
+    "ADDRESS":"2100 Baltimore Rd",
+    "CITY":"Rockville",
+    "ZIP CODE":20851,
+    "PHONE":"301-517-8105",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/rockvillehs",
+    "LOCATION":"2100 Baltimore Rd\nRockville, MD 20851\n(39.0863478113, -77.1182723989)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0175061321,39.1133304559 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"James Hubert Blake HS",
+    "ADDRESS":"300 Norwood Rd",
+    "CITY":"Silver Spring",
+    "ZIP CODE":20905,
+    "PHONE":"301-879-1300",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/blakehs",
+    "LOCATION":"300 Norwood Rd\nSilver Spring, MD 20905\n(39.1133304559, -77.0175061321)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.018771801,39.148342372 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Sherwood HS",
+    "ADDRESS":"300 Olney Sandy Spring Rd",
+    "CITY":"Sandy Spring",
+    "ZIP CODE":20860,
+    "PHONE":"301-924-3200",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/sherwoodhs",
+    "LOCATION":"300 Olney Sandy Spring Rd\nSandy Spring, MD 20860\n(39.148342372, -77.018771801)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0666690813,39.0613378725 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Wheaton HS",
+    "ADDRESS":"12601 Dalewood Dr",
+    "CITY":"Silver Spring",
+    "ZIP CODE":20906,
+    "PHONE":"301-929-2050",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/wheatonhs",
+    "LOCATION":"12601 Dalewood Dr\nSilver Spring, MD 20906\n(39.0613378725, -77.0666690813)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.1276727865,38.9816307564 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Walt Whitman HS",
+    "ADDRESS":"7100 Whittier Blv",
+    "CITY":"Bethesda",
+    "ZIP CODE":20817,
+    "PHONE":"301-320-6600",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/whitmanhs",
+    "LOCATION":"7100 Whittier Blv\nBethesda, MD 20817\n(38.9816307564, -77.1276727865)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.254239085,39.1159327009 ]
+    },
+    "properties": {
+    "CATEGORY":"HIGH SCHOOLS",
+    "SCHOOL NAME":"Quince Orchard HS",
+    "ADDRESS":"15800 Quince Orchard Rd",
+    "CITY":"Gaithersburg",
+    "ZIP CODE":20878,
+    "PHONE":"301-840-4686",
+    "URL":"http://www.montgomeryschoolsmd.org/schools/qohs",
+    "LOCATION":"15800 Quince Orchard Rd\nGaithersburg, MD 20878\n(39.1159327009, -77.254239085)"
+    }
+  }
+]
+}
