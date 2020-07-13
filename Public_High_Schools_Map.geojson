@@ -43,7 +43,7 @@
     },
     "properties": {
     "CATEGORY":"HIGH SCHOOLS",
-    "SCHOOL NAME":"John F Kennedy HS",
+    "SCHOOL NAME":"Kennedy HS",
     "ADDRESS":"1901 Randolph Rd",
     "CITY":"Silver Spring",
     "ZIP CODE":20902,
@@ -196,7 +196,7 @@
     },
     "properties": {
     "CATEGORY":"HIGH SCHOOLS",
-    "SCHOOL NAME":"Col Zadok Magruder HS",
+    "SCHOOL NAME":"Magruder HS",
     "ADDRESS":"5939 Muncaster Mill Rd",
     "CITY":"Rockville",
     "ZIP CODE":20855,
@@ -230,7 +230,7 @@
     },
     "properties": {
     "CATEGORY":"HIGH SCHOOLS",
-    "SCHOOL NAME":"Winston Churchill HS",
+    "SCHOOL NAME":"Churchill HS",
     "ADDRESS":"11300 Gainsborough Rd",
     "CITY":"Potomac",
     "ZIP CODE":20854,
@@ -281,7 +281,7 @@
     },
     "properties": {
     "CATEGORY":"HIGH SCHOOLS",
-    "SCHOOL NAME":"Thomas S Wootton HS",
+    "SCHOOL NAME":"Wootton HS",
     "ADDRESS":"2100 Wootton Pkw",
     "CITY":"Rockville",
     "ZIP CODE":20850,
@@ -298,7 +298,7 @@
     },
     "properties": {
     "CATEGORY":"HIGH SCHOOLS",
-    "SCHOOL NAME":"Albert Einstein HS",
+    "SCHOOL NAME":"Einstein HS",
     "ADDRESS":"11135 Newport Mill Rd",
     "CITY":"Kensington",
     "ZIP CODE":20895,
@@ -315,7 +315,7 @@
     },
     "properties": {
     "CATEGORY":"HIGH SCHOOLS",
-    "SCHOOL NAME":"Montgomery Blair HS",
+    "SCHOOL NAME":"Blair HS",
     "ADDRESS":"51 E University Blv",
     "CITY":"Silver Spring",
     "ZIP CODE":20901,
@@ -349,7 +349,7 @@
     },
     "properties": {
     "CATEGORY":"HIGH SCHOOLS",
-    "SCHOOL NAME":"James Hubert Blake HS",
+    "SCHOOL NAME":"Blake HS",
     "ADDRESS":"300 Norwood Rd",
     "CITY":"Silver Spring",
     "ZIP CODE":20905,
@@ -400,7 +400,7 @@
     },
     "properties": {
     "CATEGORY":"HIGH SCHOOLS",
-    "SCHOOL NAME":"Walt Whitman HS",
+    "SCHOOL NAME":"Whitman HS",
     "ADDRESS":"7100 Whittier Blv",
     "CITY":"Bethesda",
     "ZIP CODE":20817,
